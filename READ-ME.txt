@@ -16,6 +16,7 @@ Packages and plug-ins to download before beginning:
 - Download all the modules and the music file in the same folder ('WelcomePage.py', 'Mood.py', 'Prioritisation.py', 'Result.py', and 'ThaiMeditation.wav')
 
 Tips:
+- Run this code from 'WelcomePage.py'
 - Restart your kernel every time you close the Virtual Mentor
 - Sometimes 'simpleaudio' won't work on Spyder (for Windows), so it may be best to switch to using a different Python IDE, such as IDLE
 - Don't listen to the video with headphones!!
