@@ -1,4 +1,4 @@
-# GalPy-HackHerThon
+# GalPy-HackHerThon with WSET Imperial College London
 
 Welcome to Virtual Mentor!
 Virtual Mentor is your computer-sized, amicable study buddy. 
@@ -21,4 +21,4 @@ Tips:
 - Don't listen to the video with headphones!!
 
 
-We hope you enjoy your Virtual Mentor! Thank you for the opportunity to have a chance to code a project like this :)
+We hope you enjoy your Virtual Mentor! Thank you to WSET Imperial, the mentors and the sponsors for the opportunity to have a chance to code a project like this :)
